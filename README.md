@@ -2,7 +2,7 @@
 
 The dataset provided here covers only the Estonian Public Broadcasting part of our analysis (the main focus of the paper), in a semi-anonymized and aggregated form, as per agreement with the data provider. That means not all variables from the original dataset are made available (such as titles of the programmes), but enough to reproduce our analyses. The elements in the code pertaining to other datasets described in the paper have been commented out accordingly.
 
-To reproduce our analyses and graphs:
+The code is written in [R](https://www.r-project.org/). To reproduce our analyses and graphs:
 
 1. Unpack the quantifying_public_value_data.csv.zip - inside is a CSV file with a subset of the ERR data necessary to reproduce out analyses.
 2. Open the quantifying_public_value_code.R file in an instance of R (we recommend using the RStudio IDE). Follow the instructions, including package installation and loading the data, in the header of this code file. Either place the CSV file and the quantifying_public_value_scripts.R file in the working directory of your R installation (run getwd() to see where), or provide full paths where indicated in the code file.
