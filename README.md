@@ -1,4 +1,7 @@
-Code and data to reproduce the graphs and analysis in "Quantifying public value creation by public service media using big programming data" by Indrek Ibrus, Andres Karjus, Vejune Zemaityte, Ulrike Rohn, Maxilian Schich (submitted and pending review; currently available as a preprint at https://osf.io/preprints/socarxiv/hysma). The dataset provided here covers only the Estonian Public Broadcasting part of our analysis (the main focus of the paper), in a semi-anonymized and aggregated form, as per agreement with the data provider. That means not all variables from the original dataset are made available (such as titles of the programmes), but enough to reproduce our analyses. The elements in the code pertaining to other datasets described in the paper have been commented out accordingly.
+# Code and data to reproduce the graphs and analysis in "Quantifying public value creation by public service media using big programming data" by Indrek Ibrus, Andres Karjus, Vejune Zemaityte, Ulrike Rohn, Maxilian Schich 
+The paper is submitted and pending review; currently available as a preprint at https://osf.io/preprints/socarxiv/hysma). 
+
+The dataset provided here covers only the Estonian Public Broadcasting part of our analysis (the main focus of the paper), in a semi-anonymized and aggregated form, as per agreement with the data provider. That means not all variables from the original dataset are made available (such as titles of the programmes), but enough to reproduce our analyses. The elements in the code pertaining to other datasets described in the paper have been commented out accordingly.
 
 To reproduce our analyses and graphs:
 
